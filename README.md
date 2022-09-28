@@ -1,2 +1,3 @@
-# morty-looks-at-cursor
-Morty looks at your cursor
+# Morty follows your cursor
+
+![morty gif](img/morty.gif)
